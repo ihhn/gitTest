@@ -1,3 +1,7 @@
 aaaaaa
 bbbbbb
+<<<<<<< HEAD
 angrypig
+=======
+angrybirds
+>>>>>>> angrybirds
